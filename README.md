@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Emeldito%20Covane&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Emeldito+Lourenco+Covane;I+from+Mozambique,+Maputo;I+study+Computer+Science+and+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Emeldito+Covane;I+from+Mozambique,+Maputo;I+m+a+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -13,7 +13,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Emeldito&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Emeldito Lourenco Covane github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Emeldito&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Emeldito Covane github stats"/> 
   <!--img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emeldito&layout=compact&theme=buefy&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/-->
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matealves&layout=compact&theme=buefy&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a>
 </div>
